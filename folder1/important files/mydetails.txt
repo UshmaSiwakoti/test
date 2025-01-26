@@ -4,9 +4,8 @@ my dob is 09/04/1993
 i am studying computer technologies
 married
 wife name ushma
-<<<<<<< HEAD
 she is  a chef working at 1909 cafe
 she is working casual at the moment
-=======
 she is making around $700 every week
->>>>>>> d4c97a9 (weekly salary added)
+she is making around $700 every week
+she is looking some work at the evening
