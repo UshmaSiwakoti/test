@@ -11,5 +11,7 @@ she is making between $500 - $700 every week
 she is working around 15 - 20 hours/week
 local repo added to GitHub
 
+I am looking at the file after a week and don't know why this is showing on my repo list
+is it because I have worked on this one before ?
 
 
